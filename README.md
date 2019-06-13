@@ -1,0 +1,2 @@
+# MoOd
+Django application.
